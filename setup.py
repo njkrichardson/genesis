@@ -29,5 +29,5 @@ setuptools.setup(
         "pandas", 
         "black", 
         "flake8", 
-        "mypy"
+        "mypy"]
 )
