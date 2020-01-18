@@ -19,4 +19,15 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
+    install_requires=[
+        "numpy~=1.18.1", 
+        "jupyterlab~=1.2.5", 
+        "seaborn", 
+        "matplotlib",
+        "scipy", 
+        "sklearn", 
+        "pandas", 
+        "black", 
+        "flake8", 
+        "mypy"
 )
