@@ -27,6 +27,7 @@ setuptools.setup(
         "matplotlib",
         "mypy",
         "numpy~=1.18.1",
+        "numba",
         "pandas",
         "scipy",
         "seaborn",
